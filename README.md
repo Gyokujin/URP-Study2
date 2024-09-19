@@ -3,6 +3,7 @@
 - URP 셰이더 제작 모음입니다
 
 
-![5](https://github.com/user-attachments/assets/40177a8d-8fa6-40e1-a08d-516f0b56d9b2)
+![6](https://github.com/user-attachments/assets/4ad5adcb-bbd3-4310-bf4c-8ac970e81b36)
+![7](https://github.com/user-attachments/assets/85e61970-2a2f-48af-ad7d-d57d9ba18c1b)
 
 https://youtu.be/5KSL4OONiXE?si=GiWH5nrzT5XTTnbI
